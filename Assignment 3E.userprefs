@@ -1,0 +1,39 @@
+﻿<Properties StartupItem="Assembly-CSharp.csproj">
+  <MonoDevelop.Ide.Workspace ActiveConfiguration="Debug" PreferredExecutionTarget="Unity.Instance.Unity Editor" />
+  <MonoDevelop.Ide.Workbench ActiveDocument="Assets/Scripts/FinalScript24.cs">
+    <Files>
+      <File FileName="Assets/Scripts/TextControl12.cs" Line="62" Column="2" />
+      <File FileName="Assets/Scripts/TextControl11.cs" Line="31" Column="4" />
+      <File FileName="Assets/Scripts/TextControl10.cs" Line="3" Column="22" />
+      <File FileName="Assets/Scripts/Continue13.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextControl08.cs" Line="229" Column="2" />
+      <File FileName="Assets/Scripts/TextControl14.cs" Line="290" Column="36" />
+      <File FileName="Assets/Scripts/ButtonControl08.cs" Line="19" Column="2" />
+      <File FileName="Assets/Scripts/ButtonControl14.cs" Line="20" Column="1" />
+      <File FileName="Assets/Scripts/Continue14.cs" Line="26" Column="3" />
+      <File FileName="Assets/Scripts/Continue08.cs" Line="16" Column="2" />
+      <File FileName="Assets/Scripts/Continue06.cs" Line="20" Column="28" />
+      <File FileName="Assets/Scripts/TextControl15.cs" Line="61" Column="16" />
+      <File FileName="Assets/Scripts/TextControl16.cs" Line="88" Column="2" />
+      <File FileName="Assets/Scripts/Continue17.cs" Line="18" Column="29" />
+      <File FileName="Assets/Scripts/TextControl18.cs" Line="53" Column="2" />
+      <File FileName="Assets/Scripts/Continue10.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/BGMnodestroy.cs" Line="14" Column="30" />
+      <File FileName="Assets/Scripts/BGMnodestroy2.cs" Line="9" Column="3" />
+      <File FileName="Assets/Scripts/TextControl19.cs" Line="42" Column="2" />
+      <File FileName="Assets/Scripts/Continue19.cs" Line="20" Column="23" />
+      <File FileName="Assets/Scripts/TextControl20.cs" Line="28" Column="24" />
+      <File FileName="Assets/Scripts/Continue20.cs" Line="27" Column="2" />
+      <File FileName="Assets/Scripts/Continue21.cs" Line="22" Column="3" />
+      <File FileName="Assets/Scripts/Continue09.cs" Line="1" Column="1" />
+      <File FileName="Assets/Scripts/TextControl22.cs" Line="38" Column="2" />
+      <File FileName="Assets/Scripts/Continue22.cs" Line="28" Column="1" />
+      <File FileName="Assets/Scripts/Continue23.cs" Line="24" Column="1" />
+      <File FileName="Assets/Scripts/FinalScript24.cs" Line="7" Column="2" />
+    </Files>
+  </MonoDevelop.Ide.Workbench>
+  <MonoDevelop.Ide.DebuggingService.Breakpoints>
+    <BreakpointStore />
+  </MonoDevelop.Ide.DebuggingService.Breakpoints>
+  <MonoDevelop.Ide.DebuggingService.PinnedWatches />
+</Properties>
